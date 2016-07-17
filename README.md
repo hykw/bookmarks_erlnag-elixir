@@ -29,6 +29,8 @@ Erlang/Elixir 関係の記事のブックマーク
 - [ExUnit Cheat Sheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html?utm_campaign=elixir_radar_39&utm_medium=email&utm_source=RD+Station) チートシート
 - [Easy Mocking in Elixir with Meck](http://blog.lucidsimple.com/2016/01/04/easy-mocking-in-elixir-with-meck.html) Meck によるモックテストのやり方
 - [Writing Acceptance tests in Phoenix](http://blog.plataformatec.com.br/2016/01/writing-acceptance-tests-in-phoenix/?utm_campaign=elixir_radar_34&utm_medium=email&utm_source=RD+Station) hound による acceptance test の例
+- [Special Processes in OTP](http://blog.carbonfive.com/2016/06/28/special-processes-in-otp/) Erlang の :sys, :proc_lib の利用を通して :sys.statistics, :sys.trace の使い方を簡単に説明
+
 
 ## OTP
 ### GenServers
