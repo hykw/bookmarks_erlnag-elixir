@@ -49,6 +49,6 @@ Erlang/Elixir 関係の記事のブックマーク
 ### Protocol
 - [Extensible Design with Protocols](https://blog.drewolson.org/extensible-design-with-protocols/) protocol とその使い方の簡単な説明
 
-### SMTP
+## SMTP
 - [Announcing Bamboo, Email with a Functional Twist](https://robots.thoughtbot.com/announcing-bamboo-email-with-a-functional-twist?utm_campaign=elixir_radar_46&utm_medium=email&utm_source=RD+Station) Bamboo によるメール送信の簡単な説明
 
