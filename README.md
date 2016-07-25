@@ -53,3 +53,6 @@ Erlang/Elixir 関係の記事のブックマーク
 ## SMTP
 - [Announcing Bamboo, Email with a Functional Twist](https://robots.thoughtbot.com/announcing-bamboo-email-with-a-functional-twist?utm_campaign=elixir_radar_46&utm_medium=email&utm_source=RD+Station) Bamboo によるメール送信の簡単な説明
 
+## リリース
+- [Distillery vs. Exrm vs. Relx](http://bitwalker.org/posts/2016-07-21-distillery-vs-exrm-vs-relx/) 次世代版 Exrm である Distillery について作者の考えがまとまっている
+
