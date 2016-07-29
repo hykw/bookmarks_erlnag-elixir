@@ -56,3 +56,5 @@ Erlang/Elixir 関係の記事のブックマーク
 ## リリース
 - [Distillery vs. Exrm vs. Relx](http://bitwalker.org/posts/2016-07-21-distillery-vs-exrm-vs-relx/) 次世代版 Exrm である Distillery について作者の考えがまとまっている
 
+## ETS
+- [Make Phoenix Even Faster with a GenServer-backed Key Value Store](https://robots.thoughtbot.com/make-phoenix-even-faster-with-a-genserver-backed-key-value-store) よくある、Supervisor 配下で ETS を使ってキャッシングする例だけどよくまとまってる。
