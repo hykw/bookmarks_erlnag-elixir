@@ -45,7 +45,7 @@ Erlang/Elixir 関係の記事のブックマーク
 - [Elixir Quick Reference](https://github.com/itsgreggreg/elixir_quick_reference) Elixir の書式のリファレンス
 - [Elixir Examples](https://elixir-examples.github.io/) アトムから文字列への変換方法など、簡単な tips 集
 - [Elixir Best Practices - Deeply Nested Maps](https://dockyard.com/blog/2016/02/01/elixir-best-practices-deeply-nested-maps) 深い階層のMapやListをKernel.put_in/3で簡単に扱う方法の説明
-
+- [@specでのintegerとString.tの違い](https://www.reddit.com/r/elixir/comments/4v2ss2/help_me_understand_types_in_documentation_specs/)
 
 ### Protocol
 - [Extensible Design with Protocols](https://blog.drewolson.org/extensible-design-with-protocols/) protocol とその使い方の簡単な説明
