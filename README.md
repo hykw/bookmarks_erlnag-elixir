@@ -7,6 +7,7 @@ Erlang/Elixir 関係の記事のブックマーク
 - [The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html) Erlang の基本的な考えなどを説明
 - [Erlang Garbage Collection Details and Why It Matters](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html) Erlang の GC, Erlang の OS プロセスで共通の shared heap とかの説明
 - [How do Erlang Microprocesses work internally?](https://www.reddit.com/r/erlang/comments/4sogzb/how_do_erlang_microprocesses_work_internally/) プロセスのスケジューリングなど内部的な動作に関するスレッド
+- [Welcome to BEAM VM Wisdoms!](http://beam-wisdoms.clau.se/en/latest/) BEAMの内部構造などの簡単な説明
 
 ## Cowboy/Ranch
 - [Erlang/OTP architectures: cowboy](https://medium.com/@kansi/erlang-otp-architectures-cowboy-7e5e011a7c4f#.wu3l885ab) Cowboyというよりは Ranch の簡単な説明
