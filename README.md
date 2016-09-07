@@ -38,6 +38,8 @@ Erlang/Elixir 関係の記事のブックマーク
 ### GenServers
 - [Let's talk about GenServers](http://codingwithaxe.com/lets-talk-about-genserver-in-elixir/) Elixir での GenServer の書き方の簡単な説明
 - [Creating Elixir libraries as OTP applications](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/) 簡単な chat ボットを GenServer で作る
+- [THE GenServer CHEATSHEET](https://www.dropbox.com/s/ndvxagapf7xmaok/GenServer_CheatSheet.pdf)
+
 
 ### Supervisor
 - [Supervisorを使ってプロセス管理を行う](http://qiita.com/ak-ymst/items/c2efcee60dd774062429)
